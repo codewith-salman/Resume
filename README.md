@@ -23,7 +23,7 @@
 
 <img src="Resume/image/screenshot.PNG" alt="Registration Form" width="700"/>
 
-This is my third project in HTML created my resume to enhance my skills as well as my CV....
+This is my third project in HTML created my resume to enhance my skills as well as my CV and also give stars if you like it....
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
